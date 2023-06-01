@@ -1,0 +1,5 @@
+#ignore users folder
+/users/
+
+#ignore virtual environment
+/env/
